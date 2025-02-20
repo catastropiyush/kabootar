@@ -1,5 +1,6 @@
 # kabootar
-BIrd noise analysis
+BIRD noise analysis
+
 
 # Impact of Urbanization on Bird Vocalizations
 Urbanization has significantly altered natural soundscapes, raising concerns about its effects on bird communication. This study investigates how increased anthropogenic noise influences the vocal characteristics of birds in urban environments compared to rural areas.
@@ -33,3 +34,5 @@ Assessing the effectiveness of green spaces in reducing noise pollution and supp
 # 5.Cross-Species Comparisons
 
 Comparing vocal adaptations across different bird species to determine which are most affected by urbanization.
+
+https://en.wikipedia.org/wiki/Synurbization#:~:text=Synurbization%20refers%20to%20the%20effects,often%20in%20benefit%20to%20humans.
