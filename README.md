@@ -9,27 +9,27 @@ By analyzing bird song recordings from different habitats, we aim to identify va
 This research provides insights into how birds modify their communication strategies in response to human-induced environmental changes, with implications for conservation and urban planning.
 
 
-#Future Scope
-1.Expanded Dataset & Longitudinal Studies
+# Future Scope
+# 1.Expanded Dataset & Longitudinal Studies
 
 Collecting bird vocalization data across multiple urban and rural locations over extended periods will help identify long-term adaptation patterns.
 Seasonal variations in vocal behavior can also be studied to understand how birds adjust over time.
 
-2.Machine Learning for Automated Analysis
+# 2.Machine Learning for Automated Analysis
 
 Implementing deep learning models for automated bird call classification can improve accuracy in identifying vocal adaptations.
 AI-powered analysis can be used for real-time monitoring of urban biodiversity.
 
-3.Impact on Bird Communication & Survival
+# 3.Impact on Bird Communication & Survival
 
 Investigating whether vocal modifications impact mating success and territory defense.
 Studying how altered vocalizations affect species interactions and ecological balance.
 
-3.Urban Noise Mitigation Strategies
+# 4.Urban Noise Mitigation Strategies
 
 Using research findings to inform urban planning and conservation efforts, such as designing "quiet zones" in cities.
 Assessing the effectiveness of green spaces in reducing noise pollution and supporting bird populations.
 
-4.Cross-Species Comparisons
+# 5.Cross-Species Comparisons
 
 Comparing vocal adaptations across different bird species to determine which are most affected by urbanization.
